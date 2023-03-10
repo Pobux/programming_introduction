@@ -18,24 +18,26 @@ print("Guess a number between " + str(minimum) + " and " + str(maximum) + "!")
 guess_count = 0
 user_win = False
 
-while False:
+while guess_count < 3:
     ## Ask the user to guess
+    user_guess = input("Try a number")
+    user_guess = int(user_guess)
 
     ## if the guess is lower than the chosen number
-    if False:
+    if user_guess < number_to_guess:
         print("The number is too low!")
 
     ## if the guess is higher than the chosen number
-    if False:
+    if user_guess > number_to_guess:
         print("The number is too high!")
 
     ## The user is right, get out of the loop
-    if False:
+    if user_guess == number_to_guess:
         break
 
     guess_count = guess_count + 1
 
-if False:
+if guess_count < 3:
     print("Congrats you won!")
 else:
     print("You lose, the number was " + str(number_to_guess))
