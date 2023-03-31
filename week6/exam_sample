@@ -1,0 +1,99 @@
+    1. What is a variable?
+    A. A fixed value that cannot be changed
+    B. A reserved keyword in programming
+    C. A storage location in memory for holding a value
+    D. A conditional statement for branching
+
+    2. What is a list?
+    A. A type of conditional statement in programming
+    B. A storage location in memory for holding a single value
+    C. A data structure that holds multiple values in a sequence
+    D. A reserved keyword in programming
+
+    3. What is a dictionary?
+    A. A data structure that holds multiple values in a sequence
+    B. A type of conditional statement in programming
+    C. A collection of key-value pairs
+    D. A fixed value that cannot be changed
+
+    4. What is the purpose of an if/else statement?
+    A. To define a loop in programming
+    B. To print output to the console
+    C. To test a condition and execute code based on the result
+    D. To sort a list of values
+
+    5. Which of the following is an example of a boolean expression?
+    A. "hello"
+    B. 3.14
+    C. True
+    D. [1, 2, 3]
+
+    6. Which of the following is the correct syntax for declaring a variable in Python?
+    A. var my_variable = 10
+    B. myVariable = 10
+    C. my_variable == 10
+    D. my_variable = 10
+
+    7. What is the difference between a while loop and a for loop?
+    A. A for loop can only iterate over lists, while a while loop can iterate over any data type
+    B. A while loop is used for indefinite iteration, while a for loop is used for definite iteration
+    C. A for loop is used for indefinite iteration, while a while loop is used for definite iteration
+    D. There is no difference between a while loop and a for loop
+
+    8. What is the output of the following code?
+    x = 5
+    if x > 10:
+      print("x is greater than 10")
+    else:
+      print("x is less than or equal to 10")
+    
+    A. "x is greater than 10"
+    B. "x is less than or equal to 10"
+    C. Nothing will be printed
+    D. There is a syntax error in the code
+
+    9. What is the output of the following code?
+    my_list = [1, 2, 3, 4, 5]
+    for item in my_list:
+      print(item)
+    
+    A. 1
+       2 
+       3 
+       4 
+       5
+    B. [1, 2, 3, 4, 5]
+    C. "my_list"
+    D. Nothing will be printed
+
+    10. What is the purpose of a break statement in a loop?
+    A. To skip over the current iteration of the loop
+    B. To terminate the loop early
+    C. To pause the execution of the loop temporarily
+    D. To reverse the order of the loop
+
+    11. What is the output of the following code?
+    my_dict = {"name": "John", "age": 25}
+    print(my_dict["name"])
+    A. "John"
+    B. "age"
+    C. 25
+    D. There is a syntax error in the code
+
+    12. What is the output of the following code?
+    x = 0
+    while x < 5:
+      x += 1
+    print(x)
+    A. 4
+    B. 5
+    C. 3
+    D. 6
+
+    13. What is the output of the following code?
+    my_dict = {"name": "John", "age": 25}
+    print(my_dict["age"])
+    A. "John"
+    B. "age"
+    C. 25
+    D. None
