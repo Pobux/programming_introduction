@@ -1,0 +1,32 @@
+A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, [, \, ], ^, _, `, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, {, |, }, ~
+
+message: BONJOUR
+
+1. key = "A"
+BONJOUR
+
+2. key = "B"
+BONJOUR
+
+3. key = "ab"
+BPNKOVR
+
+4. key = "bc"
+BPNKOVR
+
+5. key = "DFG"
+BPPJPWR
+
+5. key = "AAAAAA"
+BPPMSZR
+
+7. key = "kkkkkkkkkkkkk"
+BPPMSZX
+
+message = A B C
+8. key = "GAB"
+A D D
+
+message = AB CD
+9. key = "GAB"
+AC CE
